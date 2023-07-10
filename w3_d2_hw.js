@@ -55,11 +55,11 @@ class Pirate {
   }
   onDuty(){
     this.work =true;
-    console.log('This Pirate is out in the sea' );
+    console.log('This ship is out in the sea' );
   }
   offDuty(){
     this.work = false;
-    console.log('This Pirate is on vacation');
+    console.log('This ship is on vacation');
   }
 }
 const jollyRoger =[
